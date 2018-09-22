@@ -18,7 +18,6 @@ Move into the shoplist directory:
 Install the gemfiles:
 
     ♥ bundle install
-<<<<<<< HEAD
 
 Migrate the database:
 
@@ -27,14 +26,3 @@ Migrate the database:
 And run `rails s` to view the program in your browser:
 
     ♥ rails s
-=======
-    
-Migrate the database:
-
-    ♥ rake db:migrate
-
-And run `rails s` to view the program in your browser:
-
-    ♥ rails s
-    
->>>>>>> a7a2ec94ab8b612b8c9ec6606264e4440610ced3
