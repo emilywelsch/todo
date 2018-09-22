@@ -1,24 +1,29 @@
-# README
+<img width="1189" alt="screen shot 2018-09-22 at 1 01 53 pm" src="https://user-images.githubusercontent.com/35111598/45919714-ebb1b100-be67-11e8-8a6d-809748a05973.png">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## TODO
+TODO is a Ruby on Rails to-do list app that allows users to create, update, and complete tasks in custom lists. This application illustrates basic CRUD (Create Read Update Delete) actions.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+Add this line to your terminal to clone the repository:
 
-* System dependencies
+```ruby
+♥ git clone https://github.com/emilywelsch/todo.git
+```
 
-* Configuration
+Move into the shoplist directory:
 
-* Database creation
+    ♥ cd todo/
 
-* Database initialization
+Install the gemfiles:
 
-* How to run the test suite
+    ♥ bundle install
+    
+Migrate the database:
 
-* Services (job queues, cache servers, search engines, etc.)
+    ♥ rake db:migrate
 
-* Deployment instructions
+And run `rails s` to view the program in your browser:
 
-* ...
+    ♥ rails s
+    
