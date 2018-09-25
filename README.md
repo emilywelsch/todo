@@ -3,6 +3,8 @@
 ## TODO
 TODO is a Ruby on Rails to-do list app that allows users to create, update, and complete tasks in custom lists. This application illustrates basic CRUD (Create Read Update Delete) actions.
 
+* Quick Note: This app is still under development and not all the features are complete. Please visit again in the future for the full build.
+
 ## Installation
 
 Add this line to your terminal to clone the repository:
